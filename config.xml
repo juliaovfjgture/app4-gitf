@@ -29,7 +29,7 @@
    <acces origin= "https://*/*"/>
    <allow-intent href="http://*/*"/>
    <acces origin= "http://*/*"/>
-   <plugin name= "cordova-plugin-whitelist" source="nom"/>
+   <plugin name= "cordova-plugin-whitelist" source="npm"/>
    
   
   <!--Plugins-->
